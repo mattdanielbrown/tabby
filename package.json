@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "8.2.0",
-    "@angular-devkit/build-angular": "0.803.21",
+    "@angular-devkit/build-angular": "0.900.6",
     "@angular-eslint/builder": "0.0.1-alpha.17",
     "@angular/cli": "8.3.21",
     "@angular/common": "8.2.14",
@@ -61,7 +61,7 @@
     "codelyzer": "5.1.2",
     "conventional-changelog-cli": "2.0.32",
     "core-js": "3.1.4",
-    "electron": "7.1.7",
+    "electron": "11.4.4",
     "electron-builder": "21.2.0",
     "electron-reload": "1.5.0",
     "eslint": "6.6.0",
